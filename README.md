@@ -1,0 +1,3 @@
+# Advent of Code 2023
+
+I think it's finally time to try and solve these puzzles using Python.  Let's see how that goes...
